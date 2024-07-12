@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FATHIM-AS
-- 🌱 I’m currently learning webdevelopment
+- 🌱 I’m currently learning Machine learning COncepts and developing my Problem solving skills
 - 📫 How to reach me itzfathimabbas@gmail.com 
 - 😄 Pronouns: She/her
 
