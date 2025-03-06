@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FATHIM-AS
-- 🌱 I’m currently learning Machine learning COncepts and developing my Problem solving skills
-- 📫 How to reach me itzfathimabbas@gmail.com 
+- 🌱 I’m currently learning full stack development and developing my Problem solving skills
+- 📫 How to reach me fathimabbas.as@gmail.com
 - 😄 Pronouns: She/her
 
 
